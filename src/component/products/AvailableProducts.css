@@ -1,0 +1,22 @@
+button {
+    font: inherit;
+    cursor: pointer;
+    background: #423c4a;
+    border: 1px solid #230052;
+    color: #fff;
+    padding: -0.25rem 0.5rem;
+    border-radius: 20px;
+}
+.productContainer {
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.products {
+    width: 17%;
+    padding: 16px;
+    margin: -22px;
+    display: flex;
+    flex-direction: column;
+}

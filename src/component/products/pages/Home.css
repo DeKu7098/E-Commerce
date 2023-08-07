@@ -1,0 +1,41 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+.touritem {
+    display: flex;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.tourdate {
+    width: 12%;
+}
+.tourplace {
+    width: 25%;
+    color: #777;
+}
+.tour-spec-place {
+    width: 53%;
+    color: #777;
+}
+.buybtn {
+    width: 20%;
+    background: #56CCF2;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+background-color: black;
+height: 24px;
+margin: auto;
+display: flex;
+width: 100%;
+flex-direction: column-reverse;
+flex-wrap: wrap;
+}

@@ -1,0 +1,68 @@
+.header {
+    background-color: black;
+    height: 24px;
+    margin: auto;
+    display: flex;
+    width: 100%;
+}
+
+.header h1 {
+    color: azure;
+}
+
+.section {
+    background-color: grey;
+    height: 70px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.section h1 {
+    
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.main {
+    display: flex;
+    width: 105%;
+    justify-content: center;
+    text-align: center;
+}
+
+.main h3 {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    padding: 1%;
+}
+
+.main2 {
+    display: flex;
+    width: 0%;
+    justify-content: flex-end;
+}
+
+.music {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.musich3 {
+    font-style: oblique;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+.html {
+    font-family: cursive;
+}
